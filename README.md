@@ -12,3 +12,6 @@ For more information, [see About](About.md) and [the SBLGNT website](https://sbl
 The SBLGNT is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 Copyright 2010 by the [Society of Biblical Literature](https://sbl-site.org/) and [Logos Bible Software](https://www.logos.com/).
+
+# My Fork
+This repo includes the text and scripts required to convert the text into files useable for my Obsidian setup
